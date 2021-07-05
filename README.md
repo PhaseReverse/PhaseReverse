@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @PhaseReverse
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning anything that blows my mind
-- 💞️ I’m looking to collaborate on mindblowing ideas
+Talk with me: 
 - Email : yogireborn@protonmail.com | Cheers
 
 <!---
